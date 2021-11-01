@@ -1,6 +1,5 @@
 const inquirer = require("inquirer");
 const fs = require('fs');
-const axios = require("axios");
 const generate = require("./Develop/app");
 
 const questions = [
