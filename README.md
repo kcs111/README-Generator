@@ -3,6 +3,8 @@
   111222
   ## Description 
   ReadmeGenerator
+  ![example](/Users/kylascott/Desktop/README Generator2/READMDE-generator/README-Generator2/ReadMeimage1.png)
+  ![example](/Users/kylascott/Desktop/README Generator2/READMDE-generator/README-Generator2/ReadMeimage2.png)
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -16,12 +18,13 @@
           npm i then node index.js
   ## Usage
   generate readme
+  https://watch.screencastify.com/v/flst55eASuw9Ystx26mc
+
+
   ## Licence
   111222
   ## Contributors
   kcs111
-  ## Test
-  0
   ## Repository
   - [Project Repo](none)
   ## GitHub
