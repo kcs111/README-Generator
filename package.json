@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kcs111/README-Generator#readme",
   "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
     "inquirer": "^8.2.0"
   }
 }
